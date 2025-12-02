@@ -1,7 +1,7 @@
 require_relative "dial"
 require_relative "dial2"
 
-file = File.open("#{__dir__}/part1.txt")
+file = File.open("#{__dir__}/input.txt")
 data = file.read
 
 code = Dial.find_code(50, data)
