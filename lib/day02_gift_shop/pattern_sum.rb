@@ -1,7 +1,6 @@
 require_relative "pattern_finder"
 
-part1_sum = PatternFinder.sum_patterns_in_data(1, File.read("#{__dir__}/input.txt"))
-puts "Part1 sum: #{part1_sum}"
+data = File.read("#{__dir__}/input.txt")
 
-part2_sum = PatternFinder.sum_patterns_in_data(2, File.read("#{__dir__}/input.txt"))
-puts "Part2 sum: #{part2_sum}"
+puts "Part1 sum: #{PatternFinder.sum_patterns_in_data(1, data)}"
+puts "Part2 sum: #{PatternFinder.sum_patterns_in_data(2, data)}"
