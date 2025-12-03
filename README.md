@@ -16,3 +16,12 @@ Both answers for Day 2 can be discovered by running the following command:
 ```
 ruby lib/day02_gift_shop/pattern_sum.rb
 ```
+
+## Day 3
+
+After running the following command, answers for Day 3 will be available:
+
+```
+ruby lib/day03_lobby/sum_joltage.rb
+```
+
