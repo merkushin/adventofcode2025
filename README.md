@@ -25,3 +25,11 @@ After running the following command, answers for Day 3 will be available:
 ruby lib/day03_lobby/sum_joltage.rb
 ```
 
+## Day 4
+
+Check the answers for Day 4 by running the following command:
+
+```
+ruby lib/day04_printing_department/rolls.rb
+```
+
