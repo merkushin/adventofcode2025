@@ -33,3 +33,10 @@ Check the answers for Day 4 by running the following command:
 ruby lib/day04_printing_department/rolls.rb
 ```
 
+## Day 5
+
+Run the following command to get answers for Day 5:
+
+```
+ruby lib/day05_cafeteria/cafeteria.rb
+```
